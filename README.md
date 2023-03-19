@@ -16,7 +16,7 @@
 
 <!-- The sharp edge of a razor is difficult to pass over；thus the wise say the path to Salvation is hard. -->
 
-About me: https://uyouii.cool
+my blog: https://uyouii.cool
 
 ### Stats
 
