@@ -7,8 +7,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="
-  https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=8076A3&width=1000&lines=The+sharp+edge+of+a+razor+is+difficult+to+pass+over%EF%BC%9Bthus+the+wise+say+the+path+to+Salvation+is+hard.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=8076a3&width=1000&lines=The+sharp+edge+of+a+razor+is+difficult+to+pass+over%EF%BC%9Bthus+the+wise+say+the+path+to+Salvation+is+hard.">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=8000&pause=5000&color=322F3B&width=1000&lines=The+sharp+edge+of+a+razor+is+difficult+to+pass+over%EF%BC%9Bthus+the+wise+say+the+path+to+Salvation+is+hard.">
   <img src="">
 </picture>
