@@ -12,10 +12,6 @@ About me: https://uyouii.cool
 
 ![Uyouii's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Uyouii&layout=github-compact&theme=redical)
 
-### Counter
-
-![img](https://profile-counter.glitch.me/Uyouii/count.svg)
-
 ### Snake
 
 <picture>
@@ -23,3 +19,7 @@ About me: https://uyouii.cool
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+### Counter
+
+![img](https://profile-counter.glitch.me/Uyouii/count.svg)
