@@ -12,13 +12,13 @@ About me: https://uyouii.cool
 
 ![Uyouii's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Uyouii&layout=github-compact&theme=redical)
 
-### Snake
+<!-- ### Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uyouii/uyouii/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uyouii/uyouii/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uyouii/uyouii/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 ### Counter
 
