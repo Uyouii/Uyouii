@@ -20,7 +20,9 @@ About me: https://uyouii.cool
 
 ### Stats
 
-![Uyouii's github stats](https://github-readme-stats.vercel.app/api?username=Uyouii&show_icons=true&theme=dracula&include_all_commits=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyouii&hide=html,shell,vhdl&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyouii&hide=html,shell,vhdl&theme=dracula&layout=compact)
+
+![Uyouii's github stats](https://github-readme-stats.vercel.app/api?username=Uyouii&show_icons=true&theme=dracula&include_all_commits=true)  
 
 ![Uyouii's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Uyouii&layout=github-compact&theme=redical)
 
