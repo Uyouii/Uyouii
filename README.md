@@ -23,7 +23,7 @@ my blog: https://uyouii.cool
 
 ### Stats
 
-![Uyouii's github stats](https://github-readme-stats.vercel.app/api?username=Uyouii&show_icons=true&theme=dracula&include_all_commits=true)  
+![Uyouii's github stats](https://github-readme-stats.vercel.app/api?username=Uyouii&show_icons=true&theme=dracula&include_all_commits=true)   [![GitHub Streak](https://streak-stats.demolab.com?user=Uyouii&theme=dracula)](https://git.io/streak-stats)
 
 ### Snake
 
