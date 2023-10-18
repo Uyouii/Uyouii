@@ -33,10 +33,6 @@ my blog: https://uyouii.cool
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uyouii/uyouii/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Contribution
-
-![Uyouii's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Uyouii&layout=github-compact&theme=redical)
-
 
 ### Visits
 
