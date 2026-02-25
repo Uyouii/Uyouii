@@ -17,13 +17,10 @@
 
 my blog: https://uyouii.cool
 
-### Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyouii&hide=html,shell,vhdl&theme=dracula&layout=compact)
 
 ### Stats
 
-![Uyouii's github stats](https://github-readme-stats.vercel.app/api?username=Uyouii&show_icons=true&theme=dracula&include_all_commits=true)   [![GitHub Streak](https://streak-stats.demolab.com?user=Uyouii&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Uyouii&theme=dracula)](https://git.io/streak-stats)
 
 ### Snake
 
@@ -33,7 +30,3 @@ my blog: https://uyouii.cool
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uyouii/uyouii/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-### Visits
-
-![img](https://profile-counter.glitch.me/Uyouii/count.svg)
